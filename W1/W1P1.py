@@ -45,5 +45,5 @@ print("\n")
 print("=" *50)
 if len(fail) > 0:
     print("You have failed in the following subjects :-")
-    print(fail)
+    print(.join(fail))
 print("=" *50)
