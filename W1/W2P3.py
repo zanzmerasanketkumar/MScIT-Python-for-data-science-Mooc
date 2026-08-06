@@ -24,7 +24,7 @@ def parse_float(s):
         return None
 
 subject_names = ('Python', 'Cyber', 'Cloud', 'Big Data', 'Internship')
-num_students = 3
+num_students = 10
 print("Student Performance Analytics System")
 
 for i in range(num_students):
